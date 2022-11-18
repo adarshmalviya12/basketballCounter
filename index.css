@@ -1,0 +1,32 @@
+body {
+    position: absolute;
+    text-align: center;
+    align-items: center;
+     
+  
+}
+h3{
+    color: white;
+}
+.score{                    
+    font-size: 90px;
+    color: #F94F6D;
+    width: 120px;
+    margin: 20px;
+    background: black;
+    
+}
+
+button {
+    background: white;
+}
+
+.container {
+    display: flex;
+    justify-content: space-around;
+    background: #1B244A;
+    max-width: 350px;
+    height: 250px;
+    
+
+}
